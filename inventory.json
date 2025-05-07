@@ -7,7 +7,7 @@
     "price":7988,
     "image_link":"https://assets-cdn.interactcp.com/alpinhaus/unit_photo/imgh_800x600-wm_alpinhausrv_com-m0829202416534900/unit_photo_202408290453490031918440.jpeg",
     "categories":["travel-trailer","used","Oak Ridge"],
-    "inventory_quantity":1,
+    "inventory_quantity":1
   },
   {
     "id":"C58197",
@@ -17,16 +17,16 @@
     "price":12988,
     "image_link":"https://assets-cdn.interactcp.com/alpinhaus/unit_photo/imgh_800x600-wm_alpinhausrv_com-m0131202520133637/unit_photo_202501310813363773620774.jpeg",
     "categories":["travel-trailer","used","Oak Ridge"],
-    "inventory_quantity":1,
+    "inventory_quantity":1
   },
   {
     "id":"57913",
     "title":"New 2025 Coachmen RV Catalina Summi Series 7 134BHX",
     "link":"https://www.alpinhausrv.com/product/new-2025-coachmen-rv-catalina-summit-series-7-134bhx-2653643-29",
-    "description":"Lightweight camping is easier than you think with this travel trailer in tow! The front 54" x 74" queen bed will provide a great night's rest each night, while the little ones or your guests take the bunk beds.",
+    "description":"Lightweight camping is easier than you think with this travel trailer in tow! The front 54in x 74in queen bed will provide a great night's rest each night, while the little ones or your guests take the bunk beds.",
     "price":13995,
     "image_link":"https://assets-cdn.interactcp.com/alpinhaus/unit_photo/imgh_800x600-wm_alpinhausrv_com-m0123202516494741/unit_photo_202501230449474127163590.jpg",
     "categories":["travel-trailer","used","Saratoga"],
-    "inventory_quantity":1,
+    "inventory_quantity":1
   }
 ]
